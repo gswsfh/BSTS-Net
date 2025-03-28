@@ -1,5 +1,5 @@
 # BSTS-Net
-Code and models from the paper "A Fingerprint-Based Method for Malicious Traffic Detection"
+Code and models from the paper "A Relation-based Method for Robust Malicious Traffic Detection"
 
 # Dependencies
 pip install -r requirements.txt
