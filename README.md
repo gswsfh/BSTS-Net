@@ -1,5 +1,5 @@
 # BSTS-Net
-Code and models from the paper "A Relation-based Method for Robust Malicious Traffic Detection"
+Code and models from the paper "Flow Microelement-Driven Traffic Relationship Analysis: Robust Detection of Malicious Encrypted Traffic"
 
 # Dependencies
 pip install -r requirements.txt
