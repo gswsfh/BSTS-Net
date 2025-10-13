@@ -1,5 +1,14 @@
 # BSTS-Net
 Code and models from the paper "Flow Microelement-Driven Traffic Relationship Analysis: Robust Detection of Malicious Encrypted Traffic"
+``` bibtex
+@article{fu2025flow,
+  title={Flow Microelement-Driven Traffic Relationship Analysis: Robust Detection of Malicious Encrypted Traffic},
+  author={Fu, Hao and Sun, Degang and Wei, Jinxia and Wan, Wei and Long, Chun},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2025},
+  publisher={IEEE}
+}
+```
 
 # Dependencies
 pip install -r requirements.txt
